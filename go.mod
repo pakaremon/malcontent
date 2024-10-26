@@ -1,8 +1,7 @@
-module github.com/pakaremon/malcontent
 
-go 1.23
+module github.com/chainguard-dev/malcontent
 
-replace github.com/chainguard-dev/malcontent => github.com/pakaremon/malcontent
+go 1.23.0
 
 require (
 	github.com/agext/levenshtein v1.2.3
