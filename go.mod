@@ -1,4 +1,3 @@
-
 module github.com/chainguard-dev/malcontent
 
 go 1.23
