@@ -1,4 +1,4 @@
-module github.com/chainguard-dev/malcontent
+module github.com/pakaremon/malcontent
 
 go 1.23
 
