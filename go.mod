@@ -2,6 +2,8 @@ module github.com/pakaremon/malcontent
 
 go 1.23
 
+replace github.com/chainguard-dev/malcontent => github.com/pakaremon/malcontent
+
 require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/chainguard-dev/clog v1.5.0
